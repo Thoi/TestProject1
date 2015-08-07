@@ -1,0 +1,14 @@
+Doctor Appointments
+2(x) doctors
+30 min per appointment
+
+REQUIREMENTS:
+1 request schedule
+2 schedule appointment
+a) name
+b) time (other time if unavailable)
+
+BONUS:
+1) doctor selection
+2) variable time duration depending on appointment type
+3) look up appointment
